@@ -1,0 +1,17 @@
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.deps.json
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.pdb
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Application.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Domain.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Application.pdb
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\bin\Debug\net5.0\CleanArchitecture.WebApi1.Domain.pdb
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.AssemblyInfo.cs
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.csproj.CopyComplete
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\refint\CleanArchitecture.WebApi1.Infrastructure.Shared.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\CleanArchitecture.WebApi1.Infrastructure.Shared.pdb
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Infrastructure.Shared\obj\Debug\net5.0\ref\CleanArchitecture.WebApi1.Infrastructure.Shared.dll
