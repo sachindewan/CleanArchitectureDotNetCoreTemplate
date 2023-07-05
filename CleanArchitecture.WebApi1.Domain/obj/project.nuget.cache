@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vj9iaNoqU40nq6y1yG5u9huEasP1DR6/2oHlvn/vrJ227kRBkj9BVIZou7EItMsZCa8Bht0cAfnn6Nc2uwz5bQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\CleanArchitecture.Identity.Template-master\\CleanArchitecture.WebApi1.Domain\\CleanArchitecture.WebApi1.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SachinKumar\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\SachinKumar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

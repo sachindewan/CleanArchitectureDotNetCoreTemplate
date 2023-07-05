@@ -1,0 +1,10 @@
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\bin\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.deps.json
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\bin\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\bin\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.pdb
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.csproj.AssemblyReference.cache
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.AssemblyInfoInputs.cache
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.AssemblyInfo.cs
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.csproj.CoreCompileInputs.cache
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.dll
+C:\MyStuff\CleanArchitecture.Identity.Template-master\CleanArchitecture.WebApi1.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi1.Domain.pdb
